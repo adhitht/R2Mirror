@@ -1,0 +1,6 @@
+releases:
+  - "25.04"
+
+# R2/S3 Configuration
+bucket: "your-bucket-name"
+region: "auto"  # Use "auto" for Cloudflare R2
